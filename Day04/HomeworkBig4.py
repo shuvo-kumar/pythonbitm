@@ -1,6 +1,7 @@
 ''' 
 Author  : Shuvo Kumar Shill
 Date    : homework for thusday
+Submited Date: 30.09.2021
 Homework: find big number within 4 numbers
 '''
 n1 = int(input("Enter 1st Number : "))
